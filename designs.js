@@ -1,7 +1,7 @@
 // Select color and size inputs
 const colorPicker = document.getElementById('colorPicker');
-const columns = document.getElementById('inputHeight');
-const rows = document.getElementById('inputWidth');
+const rows = document.getElementById('inputHeight');
+const columns = document.getElementById('inputWidth');
 const canvas = document.getElementById('pixelCanvas');
 const form = document.getElementById('sizePicker');
 
